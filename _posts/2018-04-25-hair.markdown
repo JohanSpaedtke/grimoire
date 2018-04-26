@@ -1,0 +1,19 @@
+---
+layout: post
+title:  "Hair"
+date:   2018-04-25
+sources: [TCToS.64]
+tags: [bard, cleric, paladin, warlock, wizard, level1, transmutation, ritual]
+---
+
+**1st-level transmutation (ritual)**
+
+**Casting Time**: 1 action
+
+**Range**: Self
+
+**Components**: V, S
+
+**Duration**: Instantaneous
+
+This spell allows you to clean, trim, style, dye, or bleach a willing target’s hair, beard, or fur instantly.
