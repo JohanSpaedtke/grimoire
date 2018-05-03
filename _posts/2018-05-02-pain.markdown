@@ -1,0 +1,21 @@
+---
+layout: post
+title:  "Pain"
+date:   2018-05-02
+sources: [TCToS.91]
+tags: [cleric, sorcerer, warlock, wizard, cantrip, necromancy]
+---
+
+**Necromancy cantrip**
+
+**Casting Time**: 1 action
+
+**Range**: Touch
+
+**Components**: V, S
+
+**Duration**: 1 minute
+
+One creature you touch is wracked by horrific pains. For the duration of the spell, that creature is at disadvantage on attack rolls and ability checks.
+
+At the beginning of each of its turns, the creature may make a Constitution saving throw, ending the effect on a success

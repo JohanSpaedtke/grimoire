@@ -1,0 +1,19 @@
+---
+layout: post
+title:  "Thump"
+date:   2018-05-02
+sources: [TCToS.121]
+tags: [bard, cleric, cantrip, evocation]
+---
+
+**Evocation cantrip**
+
+**Casting Time**: 1 reaction, which you take when another creature attacks you
+
+**Range**: Touch
+
+**Components**: V, S, M (a fan, book, rolled-up scroll, or other non-weapon object you can hold in one hand)
+
+**Duration**: Concentration, up to 1 minute
+
+You smack a hostile, attacking creature with the item you are holding on the head, face, or hand, forelimb, or paw while berating it, using an unarmed attack or your spell attack modifier to hit. The creature must make a Wisdom saving throw or be stunned for 1 round.

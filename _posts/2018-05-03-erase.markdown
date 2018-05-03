@@ -1,0 +1,21 @@
+---
+layout: post
+title:  "Erase"
+date:   2018-05-03
+sources: [TCToS.52]
+tags: [bard, cleric, warlock, wizard, level1, transmutation]
+---
+
+**1st-level transmutation**
+
+**Casting Time**: 1 action
+
+**Range**: 60 feet
+
+**Components**: V, S
+
+**Duration**: Instantaneous
+
+You magically remove one set of writings you can see, up to one page’s worth at a time. This automatically removes nonmagical writings. If you are attempting to remove magical writing, including spells such as glyph of warding or symbol, you must make an ability check using your spellcasting ability. The DC equals 10 + the spell’s level. On a successful check, the writing is erased.
+
+This spell does not work on illusory writing, such as that produced by illusory script, as that writing isn’t real.
