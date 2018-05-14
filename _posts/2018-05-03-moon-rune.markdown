@@ -1,0 +1,19 @@
+---
+layout: post
+title:  "Moon Rune"
+date:   2018-05-03
+sources: [TCToS.83]
+tags: [bard, cleric, druid, sorcerer, warlock, wizard, level2, illusion]
+---
+
+**2nd-level illusion**
+
+**Casting Time**: 1 action
+
+**Range**: Touch
+
+**Components**: V, S, M (metallic inc)
+
+**Duration**: Instantaneous
+
+You write up to seven nonmagical runes on any surface. This mark remains invisible until conditions you specify during the casting of this spell. The condition can be anything: a specific time of day or year, when moonlight (or light from a certain phase of the moon) illuminates the runes, or when the surface is touched by a member race, sex, or class, and so on.
